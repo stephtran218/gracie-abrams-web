@@ -1,0 +1,60 @@
+body{
+    background-color: rgb(247, 244, 240);
+}
+.title {
+    font-family: "licorice", sans-serif;
+    font-size: 150px;
+    width: 710px;
+    margin: 330px 0px 0px 200px; 
+    display: inline-block;
+    color:black
+}
+.singing{
+    width: 35rem;
+    margin: -440px 0px 0px 1170px;
+    position: relative;
+    display: inline-block;
+}
+.polaroid{
+    transform: rotate(-8deg);
+    width: 50rem;
+    position: relative;
+    left:1650px;
+    bottom: 975px;
+}
+.note{
+    border: 1px solid black;
+    width: 250px;
+    font-size: 25px;
+    background-color: rgb(248, 208, 208);
+    padding: 8px 8px;
+    position: relative;
+    bottom:1240px;    
+    left: 1550px;
+    transform: rotate(-4deg);
+}
+.star{
+    width: 22rem;
+    transform: rotate(25deg);
+    position: relative;
+    left: 1280px;
+    bottom: 1810px;
+
+}
+.bow{   
+    width: 24rem;
+    transform: rotate(5deg);
+    position: relative;
+    bottom: 950px;
+    left: 1050px;
+}
+button{
+    width: 300px;
+    height:60px;
+    font-size: 25px;
+    margin: 0px 0px 0px 380px; 
+    background-color: rgb(246, 160, 175);
+    color:white;
+    border: 1px solid black;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}

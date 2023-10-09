@@ -1,0 +1,224 @@
+body{
+    background-color: rgb(247, 244, 240);
+}
+.title{
+    font-size: 60px;
+    margin: 30px auto;  
+    text-align: center;
+    font-family: 'Lora', serif;
+}
+.grass{
+    width: 500px;
+}
+.albums{
+    display: flex;
+    justify-content: space-between;
+    margin: 50px 200px;
+}
+.song_names{
+    font-size: 30px;
+    display: inline-block;
+}
+.songs_1{
+    margin: 0px 0px 0px 200px;
+    display: inline-block;
+}
+.songs_2{
+    margin: 0px 0px 0px 320px;
+    display: inline-block;
+}
+.songs_3{
+    display: inline-block;
+    margin: 0px 0px 0px 312px;
+}
+.artist_1{
+    margin: 0px 0px 0px 200px;
+    display: inline-block;
+    font-size: 20px;
+}
+.artist_2{
+    margin: 0px 0px 0px 697px;
+    display: inline-block;
+    font-size: 20px;
+}
+.artist_3{
+    margin: 0px 0px 0px 695px;
+    display: inline-block;
+    font-size: 20px;
+}
+.heart_1{
+    display: inline-block;
+    margin: 0px 0px 0px 210px;
+}
+.heart_2{
+    display: inline-block;
+    margin: 0px 0px 0px 330px;
+}
+.heart_3{
+    display: inline-block;
+    margin: 0px 0px 0px 345px;
+}
+.playing_1{
+    border: 2px solid black;
+    width: 500px;
+    margin: 40px 0px 0px 200px;
+    display: inline-block;
+}
+.playing_2{
+    border: 2px solid black;
+    width: 500px;
+    display:inline-block;
+    margin: 40px 0px 0px 315px;
+}
+.playing_3{
+    border: 2px solid black;
+    width: 500px;
+    display:inline-block;
+    margin: 40px 0px 0px 311px;
+}
+.dot1{
+    width:13px;
+    position:relative;
+    left:500px;
+    bottom:14px;
+}
+.dot2{
+    width:13px;
+    position:relative;
+    bottom:14px;
+    left:1400px;
+}
+.dot3{
+    width:13px;
+    position:relative;
+    bottom:14px;
+    left:2200px;
+}
+.start1{
+    display: inline-block;
+    margin: 0px 0px 0px 200px;
+}
+.end1{
+    display: inline-block;
+    margin: 0px 0px 0px 444px;
+}
+.start2{
+    display: inline-block;
+    margin: 0px 0px 0px 315px;
+}
+.end2{
+    display: inline-block;
+    margin: 0px 0px 0px 445px;
+}
+.start3{
+    display: inline-block;
+    margin: 0px 0px 0px 309px;
+}
+.end3{
+    display: inline-block;
+    margin: 0px 0px 0px 445px;
+}
+.shuffle1{
+    width:3rem;
+    position:relative;
+    top:14px;
+    left:194px;
+}
+.shuffle2{
+    width:3rem;
+    position:relative;
+    top:14px;
+    left: 760px;
+}
+.shuffle3{
+    width:3rem;
+    position:relative;
+    top:14px;
+    left:1325px;
+}
+.skip_b1{
+    width:3rem;
+    position:relative;
+    top:14px;
+    left:250px;
+}
+.skip_b2{
+    width:3rem;
+    position:relative;
+    top:14px;
+    left:820px;
+}
+.skip_b3{
+    width:3rem;
+    position:relative;
+    top:14px;
+    left:1370px;
+}
+.play1{
+    width:3rem;
+    position:relative;
+    top:14px;
+    left:330px;
+}
+.play2{
+    width:3rem;
+    position:relative;
+    top:14px;
+    left:890px;
+}
+.play3{
+    width:3rem;
+    position:relative;
+    top:14px;
+    left:1440px;
+}
+.skip_f1{
+    width: 3rem;
+    top:14px;
+    left: 400px;
+    position:relative;
+}
+.skip_f2{
+    width: 3rem;
+    top:14px;
+   left:955px;
+   position:relative;
+}
+.skip_f3{
+    width: 3rem;
+    top:14px;
+    left: 1510px;
+    position:relative
+}
+.repeat1{
+    width: 2.7rem;
+    top:14px;
+   left:440px;
+   position:relative;
+}
+.repeat2{
+    width: 2.7rem;
+    top:14px;
+   left:1010px;
+   position:relative;
+}
+.repeat3{
+    width: 2.7rem;
+    top:14px;
+    left: 1572px;
+    position:relative
+}
+.expo{
+    font-size: 1.5rem;
+    display: flex;
+    justify-content: space-between;
+    gap: 350px;
+    padding: 30px 0px 0px 0px;
+}
+
+.miss_expo{
+    padding: 0px 0px 0px 200px;
+}
+.feels_expo{
+    padding:0px 170px 0px 0px
+}

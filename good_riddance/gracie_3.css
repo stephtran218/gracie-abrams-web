@@ -1,0 +1,106 @@
+.title{
+    font-size: 60px;
+    margin: 30px auto;  
+    text-align: center;
+    font-family: 'Lora', serif;
+}
+body{
+    background-color: rgb(247, 244, 240);
+}
+.teal_dress{
+    width:25rem;
+    margin:5rem 15rem;
+    transform: rotate(-3deg);
+}
+.sour_note{
+    border: 0.1rem solid black;
+    width: 18rem;
+    height: 18rem;
+    padding: 2rem 2rem;
+    font-size: 1.6rem;
+    background-color: rgb(244, 214, 219);
+    position: relative;
+    bottom: 40rem;
+    left:46rem;
+}
+.or{
+    width: 9rem;
+    position: relative;
+    bottom: 70rem;
+    left:9.8rem
+}
+.white_tee{
+    width:27rem;
+    transform: rotate(5deg);
+    position:relative;
+    bottom:77rem;
+    left:84rem;
+
+}
+.speak_now_note{
+    border: 0.1rem solid black;
+    width: 21.5rem;
+    height: 20.4rem;
+    padding: 2rem 2rem;
+    font-size: 1.6rem;
+    background-color: rgb(244, 214, 219);
+    position: relative;
+    bottom: 108rem;
+    left:120rem
+}
+.purple-bow{
+    width:18rem;
+    position: relative;
+    bottom:111rem;
+    left:98rem;
+}
+.black_dress{
+    width:25rem;
+    position: relative;
+    bottom: 115rem;
+    left:43rem;
+    transform: rotate(5deg);
+}
+.black-note{
+    border: 0.1rem solid black;
+    width: 14rem;
+    height: 14rem;
+    padding: 2rem 2rem;
+    font-size: 1.6rem;
+    background-color: rgb(244, 214, 219);
+    position: relative;
+    bottom: 142rem;
+    left:16rem;
+}
+.gracie-star{
+    width: 13rem;
+    position: relative;
+    bottom:172rem;
+    left: 59rem;
+    transform: rotate(25deg);
+}
+.blackbow{
+    width:25rem;
+    position: relative;
+    bottom:175rem;
+    left:83rem;
+    transform: rotate(-5deg);
+}
+.bow-note{
+    border: 0.1rem solid black;
+    width: 14rem;
+    height: 14.7rem;
+    padding: 2rem 2rem;
+    font-size: 1.6rem;
+    background-color: rgb(244, 214, 219);
+    position: relative;
+    bottom: 199rem;
+    left:118rem;
+}
+.photo-strip{
+    width: 4rem;
+    transform:rotate(5deg) ;
+    position: relative;
+    bottom: 213rem;
+    left:106rem
+}
